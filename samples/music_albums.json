@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Taylor Swift",
+        "artist": "Taylor Swift",
+        "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71LVEINqZaL._SL1200_.jpg",
+        "thumbnail_image": "https://i.imqur.com/K3KJ3w4h.jpg"
+    },
+    {
+        "title": "Fearless",
+        "artist": "Taylor Swift",
+        "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swfit/dp/B001EYGOEM",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL._SX425_.jpg",
+        "thumbnail_image": "https://i.imqur.com/K3KJ3w4h.jpg"
+    },
+    {
+        "title": "Speak Now",
+        "artist": "Taylor Swift",
+        "url": "https://www.amazon.com/dp/B003WTE886/ref=ntt_mus_ep_dpi_9",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71%2Bq4wh2%2BYL._SY355_.jpg",
+        "thumbnail_image": "https://i.imqur.com/K3KJ3w4h.jpg"
+    },
+    {
+        "title": "Red",
+        "artist": "Taylor Swift",
+        "url": "https://www.amazon.com/dp/B008XNZMOU/ref=ntt_mus_ep_dpi_7",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41j7-7yboXL._SY355_.jpg",
+        "thumbnail_image": "https://i.imqur.com/K3KJ3w4h.jpg"
+    },
+    {
+        "title": "1989",
+        "artist": "Taylor Swift",
+        "url": "https://www.amazon.com/dp/B00P2HSETA/ref=ntt_mus_ep_dpi_1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91Da6C9HuUL._SX355_.jpg",
+        "thumbnail_image": "https://i.imqur.com/K3KJ3w4h.jpg"
+    }
+]
